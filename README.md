@@ -15,11 +15,11 @@
 
 <br>
 
-![Hidden Search Widget]()
+![Hidden Search Widget](images/hidden-search-widget.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/hidden-search-widget/)
 
 <br>
 
